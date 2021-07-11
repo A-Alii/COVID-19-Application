@@ -6,11 +6,8 @@ https://user-images.githubusercontent.com/36550982/125206236-7a488480-e286-11eb-
 
 # Application ScrenShots
 
+![Screenshot_20210711_200435_com example coronavireus](https://user-images.githubusercontent.com/36550982/125206293-d9a69480-e286-11eb-84ca-bc140e41a168.jpg) ![Screenshot_20210711_200631_com example coronavireus](https://user-images.githubusercontent.com/36550982/125206297-dc08ee80-e286-11eb-92e4-645b2f0d2883.jpg)
 
-https://user-images.githubusercontent.com/36550982/125206236-7a488480-e286-11eb-996c-86ac6bc7107e.mp4
-
-![Screenshot_20210711_200435_com example coronavireus](https://user-images.githubusercontent.com/36550982/125206293-d9a69480-e286-11eb-84ca-bc140e41a168.jpg)
-![Screenshot_20210711_200631_com example coronavireus](https://user-images.githubusercontent.com/36550982/125206297-dc08ee80-e286-11eb-92e4-645b2f0d2883.jpg)
 ![Screenshot_20210711_200627_com example coronavireus](https://user-images.githubusercontent.com/36550982/125206298-dd3a1b80-e286-11eb-8fc6-db288edb1fa9.jpg)
 ![Screenshot_20210711_200621_com example coronavireus](https://user-images.githubusercontent.com/36550982/125206300-de6b4880-e286-11eb-95ba-883ec305cf66.jpg)
 ![Screenshot_20210711_200605_com example coronavireus](https://user-images.githubusercontent.com/36550982/125206302-e0350c00-e286-11eb-86f3-f5b454f9944c.jpg)
